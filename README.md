@@ -79,9 +79,9 @@ title: "页面标题"
 
 1. 推送到 GitHub 仓库
 2. 仓库设置 → Pages → Source 选择分支
-3. 访问 `https://yourusername.github.io/ctrl-alt-reflect`
+3. 访问 `https://arborlin-dev.github.io/ctrl-alt-reflect`
 
 ## 自定义域名（可选）
 
 1. 在仓库根目录创建 `CNAME` 文件，内容为域名
-2. DNS 配置 CNAME 记录指向 `yourusername.github.io`
+2. DNS 配置 CNAME 记录指向 `arborlin-dev.github.io`

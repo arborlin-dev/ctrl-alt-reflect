@@ -6,6 +6,7 @@ title: 首页
 <section class="hero">
   <h1>Ctrl + Alt + Reflect</h1>
   <p class="subtitle">技术建构 · 管理思考 · 认知迭代</p>
+  <p class="tagline">arborlin — Building systems like forests — resilient, interconnected, alive.</p>
 </section>
 
 <section class="categories">

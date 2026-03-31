@@ -23,12 +23,14 @@ description: 关于这个站点
 
 ## 关于我
 
-- 技术管理者，关注 AI 在产品中的落地
-- 相信"AI 是放大器而非药"
-- 用 PARA 方法论管理知识
-- 定期复盘，持续迭代
+**arborlin** — *Building systems like forests — resilient, interconnected, alive.*
+
+- 技术管理者，深耕智能家居/IoT 领域
+- 关注 AI 在产品中的落地，相信"AI 是放大器而非药"
+- 用 PARA 方法论管理知识，定期复盘持续迭代
+- 管理团队：APP 工程、系统测试、AI 工程化
 
 ## 联系
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your-email@example.com
+- GitHub: [@arborlin-dev](https://github.com/arborlin-dev)
+- 知识库: [ctrl-alt-reflect](https://arborlin-dev.github.io/ctrl-alt-reflect/)

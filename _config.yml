@@ -1,8 +1,15 @@
 # Site settings
 title: "Ctrl + Alt + Reflect"
-description: "技术建构 · 管理思考 · 认知迭代"
-author: Guolin
-email: your-email@example.com
+description: "Building systems like forests — resilient, interconnected, alive."
+author: arborlin
+email: hello@arborlin.dev
+
+# Social links
+social:
+  github: arborlin-dev
+  website: https://arborlin-dev.github.io/ctrl-alt-reflect/
+  # twitter: your_twitter
+  # linkedin: your_linkedin
 
 # Build settings
 markdown: kramdown
