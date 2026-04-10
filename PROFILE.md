@@ -1,6 +1,6 @@
-<!-- GitHub Profile README - 复制到 arborlin-dev/arborlin-dev 仓库 -->
+<!-- GitHub Profile README - 复制到个人 GitHub Profile 仓库 -->
 
-<h1 align="center">arborlin</h1>
+<h1 align="center">[USERNAME]</h1>
 <p align="center"><em>Building systems like forests — resilient, interconnected, alive.</em></p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🌲 关于我
 
-技术管理者，深耕 **智能家居 / IoT** 领域。
+技术管理者，深耕 **[行业领域]**。
 
 相信 "**AI 是放大器而非药**"，关注 AI 在产品中的落地与组织变革。
 
@@ -30,8 +30,8 @@
 ### 📝 最新文章
 
 <!-- 可通过 GitHub Actions 自动更新 -->
-- [Week 2 - 2025](https://arborlin-dev.github.io/ctrl-alt-reflect/weeknotes/2025/01/13/week-2-2025/) — 本周的思考与计划
-- [示例文章：如何写好一篇技术博客](https://arborlin-dev.github.io/ctrl-alt-reflect/meta/2025/01/15/example-post/) — 写作方法论
+- [Week 2 - 2025](https://[username].github.io/ctrl-alt-reflect/weeknotes/2025/01/13/week-2-2025/) — 本周的思考与计划
+- [示例文章：如何写好一篇技术博客](https://[username].github.io/ctrl-alt-reflect/meta/2025/01/15/example-post/) — 写作方法论
 
 ### 🌐 链接
 
@@ -41,3 +41,5 @@
 ---
 
 <p align="center"><em>像森林一样生长 —— 坚韧、互联、生生不息。</em></p>
+</p>
+p>
